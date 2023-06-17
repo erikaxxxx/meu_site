@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(229, 208, 208);
+    font-family: Arial, Helvetica, sans-serif;
+}
+table, th, td, tr{
+    border-style: solid;
+    border-width: 1px;
+    border-collapse: collapse;
+    /*border-color: aquamarine;*/
+    background-color: rgb(194, 245, 228);
+}
+
+div.tabela{
+    text-align: center;
+    background-color: rgb(209, 172, 158);
+}
+
+table{
+    margin: auto;
+}
